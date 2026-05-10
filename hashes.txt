@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Biborno Sroshtha
+
+This log tracks the cryptographic history and versioning for the song **Biborno Sroshtha** (biborno-sroshtha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-11T05:52:06.482130 | `v1` | `35c1ae0344eb45cb1861aa556b1bc467c29df157b0087ddae487f0c9b26c1da5` | `51ed932c44ddd17ab5afd507ef84aaa1363980e925fb090b61915f849f03110f` | `2026-05-11_biborno-sroshtha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
