@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/biborno-sroshtha/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Biborno Sroshtha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/biborno-sroshtha/) |
+| **Get License** | [Commercial Licensing for Biborno Sroshtha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/biborno-sroshtha/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> আঁধার রাতে তুমি আমার আলো
+> মন বলছে তোমায় বাসতে ভালো.. বাসতে ভালো..
+> অচেনা পথে তুমি আমার চেনা
+> হৃদয় মাঝে তুমি আমার ঠিকানা
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
